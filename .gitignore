@@ -1,3 +1,6 @@
 # Ignore executables
 *.out
 out_*
+
+# Ignore vscode data
+*.vscode
