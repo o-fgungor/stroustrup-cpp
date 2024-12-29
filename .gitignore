@@ -1,9 +1,6 @@
 # Ignore executables
 *.out
 out_*
-<<<<<<< HEAD
 
 # Ignore vscode data
-=======
->>>>>>> chapter03
 *.vscode
